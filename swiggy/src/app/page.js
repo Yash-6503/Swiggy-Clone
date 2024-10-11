@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "./components/nav";
 import Mind from './components/mind';
 import Restraurant from "./components/Restraurant";

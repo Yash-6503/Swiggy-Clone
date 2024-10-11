@@ -77,7 +77,7 @@ export default function Restraurant() {
                             className=" object-cover aspect-video h-[60%] rounded-[30px]"
                         />
                         <div className="star px-10 mt-2">
-                        <p className='font-medium text-[19px] text-black'>Udupi Tadka's Gokul</p>
+                        <p className='font-medium text-[19px] text-black'>Udupi Tadkas Gokul</p>
                         <p className='font-medium text-[17px] text-black flex gap-3 items-center' ><Image src={star} className="w-[20px] h-[20px]" alt="" />4.4 • 25-30 mins</p>
                             <p className='font-normal text-gray-500 text-[16px]'>
                             South Indian, Biryani<br/>

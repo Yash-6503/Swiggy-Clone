@@ -59,7 +59,7 @@ export default function RestraurantWithDelivery() {
 
                     </div>
                     <div className="txt1 px-2 w-[100%] mt-2">
-                        <p className='font-medium text-[19px]'>McDonald's</p>
+                        <p className='font-medium text-[19px]'>McDonalds</p>
                         <p className='font-medium text-[17px] flex justify-between items-center' ><Image src={star} className="w-[20px] h-[20px]" alt="" />4.4 • 20-25 mins</p>
                         <p className='font-normal text-gray-500 text-[16px]'>
                             Burgers, Beverages, Cafe,
@@ -186,7 +186,7 @@ export default function RestraurantWithDelivery() {
                         
                     </div>
                     <div className="txt1 px-2 w-[100%] mt-2">
-                        <p className='font-medium text-[19px]'>La Pino'z Pizza</p>
+                        <p className='font-medium text-[19px]'>La Pino Pizza</p>
                         <p className='font-medium text-[17px] flex justify-between items-center' ><Image src={star} className="w-[20px] h-[20px]" alt="" />4.2 • 20-25 mins</p>
                         <p className='font-normal text-gray-500 text-[16px]'>
                             Pizzas, Pastas...
@@ -272,7 +272,7 @@ export default function RestraurantWithDelivery() {
                         
                     </div>
                     <div className="txt1 px-2 w-[100%] mt-2">
-                        <p className='font-medium text-[19px]'>Domino's Pizza</p>
+                        <p className='font-medium text-[19px]'>Domino Pizza</p>
                         <p className='font-medium text-[17px] flex justify-between items-center' ><Image src={star} className="w-[20px] h-[20px]" alt="" />4.4 • 25-30 mins</p>
                         <p className='font-normal text-gray-500 text-[16px]'>
                             Pizzas, Italian...
